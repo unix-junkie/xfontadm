@@ -1,0 +1,9 @@
+Source: xfontadm
+Maintainer: Andrey ``Bass'' Shcheglov <andrewbass@gmail.com>
+Homepage: https://github.com/unix-junkie/xfontadm
+
+Package: xfontadm
+Section: x11
+Priority: optional
+Architecture: all
+Depends: default-jre-headless (>= 2:1.8) | java8-runtime-headless
